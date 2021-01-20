@@ -1,4 +1,4 @@
-//super 부모 class가 할수 있는 일을 하게하고, 할 수 없는 일을 자식 class가 하는 것.
+//super : 부모 class가 할수 있는 일을 하게하고, 할 수 없는 일을 자식 class가 하는 것.
 
 class Person{
     constructor(name, first, second) { //first와 second의 인자만 있는 부모 class       
